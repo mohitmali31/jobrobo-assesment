@@ -1,0 +1,9 @@
+
+# dependencies
+node_modules
+
+# testing
+package-lock.json
+# production
+build
+
